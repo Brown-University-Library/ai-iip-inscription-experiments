@@ -1,0 +1,63 @@
+Let me break this down step by step:
+
+<analysis>
+1. Initial Reading:
+This appears to be a fragmentary Greek inscription with multiple lines, containing geographical locations, measurements, and numbers.
+
+2. Leiden Convention Symbols Present:
+- [— ca. —] : Lost text of unknown length
+- [. . .] : Lost text of specific length (3 characters)
+- [word] : Lost text that can be restored
+- [—] : Lost text at line end
+- (?) : Uncertain reading
+- vacat : Intentionally blank space
+- Δ : Greek numeral
+
+3. EpiDoc XML Mapping:
+- [— ca. —] → <gap reason="lost" extent="unknown" unit="character"/>
+- [. . .] → <gap reason="lost" quantity="3" unit="character"/>
+- [word] → <supplied reason="lost">word</supplied>
+- [word (?)] → <supplied reason="lost" cert="low">word</supplied>
+- vacat → <space/>
+- Δ Δ → <num value="20">Δ Δ</num>
+
+4. Nested Tags Handling:
+- Line breaks need to be marked with <lb/>
+- Lost text with restorations will use nested <supplied> tags within <gap> tags where appropriate
+- Numbers will be wrapped in <num> tags with appropriate value attributes
+
+5. Potential Challenges:
+- Ensuring correct handling of uncertain restorations with cert="low"
+- Proper representation of Greek numerals
+- Maintaining proper spacing around vacat notations
+</analysis>
+
+<final_translation>
+<div type="edition" subtype="transcription" ana="b1">
+    <p>
+        <lb/><gap reason="lost" extent="unknown" unit="character"/>ς τεμένε.
+        <lb/><supplied reason="lost">Ἐν Χαλκίδι</supplied> παρὰ τὸ τῆς Ἀθηναίας προσ<supplied reason="lost" cert="low">τόον</supplied>
+        <lb/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">ἡμι</supplied>τέος ἢν γυὰι φορλὲς πλέθρα<gap reason="lost" extent="unknown" unit="character"/>
+        <lb/><gap reason="lost" quantity="3" unit="character"/>ἐστὼ <num value="40">Δ Δ Δ Δ</num> <space/>
+        <lb/><supplied reason="lost">Ἐν Ἐστ</supplied>ιαίᾳ Ὀροβίδιοι Πανατ<gap reason="lost" extent="unknown" unit="character"/>
+        <lb/><gap reason="lost" quantity="3" unit="character"/> ἑλαία φολὲ <num value="20">Δ Δ</num> γεῖτ<gap reason="lost" extent="unknown" unit="character"/>
+        <lb/><gap reason="lost" quantity="3" unit="character"/>γροι <space/>
+        <lb/><supplied reason="lost">Ἐν Ἐρε</supplied>τρίαι Αἰγια<supplied reason="lost">λέω</supplied><gap reason="lost" extent="unknown" unit="character"/>
+    </p>
+</div>
+</final_translation>
+
+PASTED FROM WORKBENCH
+
+<div type="edition" subtype="transcription">
+    <p xml:lang="grc">
+        <lb/><gap reason="lost" extent="unknown" unit="character"/>ς τεμένε.
+        <lb/><supplied reason="lost">Ἐν Χαλκίδι</supplied> παρὰ τὸ τῆς Ἀθηναίας προσ<supplied reason="lost" cert="low">τόον</supplied>
+        <lb/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">ἡμι</supplied>τέος ἢν γυὰι φορλὲς πλέθρα<gap reason="lost" extent="unknown" unit="character"/>
+        <lb/><gap reason="lost" quantity="3" unit="character"/>ἐστὼ <num value="40">Δ Δ Δ Δ</num> <space/>
+        <lb/><supplied reason="lost">Ἐν Ἐστ</supplied>ιαίᾳ Ὀροβίδιοι Πανατ<gap reason="lost" extent="unknown" unit="character"/>
+        <lb/><gap reason="lost" quantity="3" unit="character"/> ἑλαία φολὲ <num value="20">Δ Δ</num> γεῖτ<gap reason="lost" extent="unknown" unit="character"/>
+        <lb/><gap reason="lost" quantity="3" unit="character"/>γροι <space/>
+        <lb/><supplied reason="lost">Ἐν Ἐρε</supplied>τρίαι Αἰγια<supplied reason="lost">λέω</supplied><gap reason="lost" extent="unknown" unit="character"/>
+    </p>
+</div>
