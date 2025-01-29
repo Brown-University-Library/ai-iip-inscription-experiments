@@ -1,11 +1,12 @@
 import os
+from dotenv import load_dotenv
 import anthropic
 
 def get_epidoc(leiden) -> str:
 
     client = anthropic.Anthropic(
         # defaults to os.environ.get("ANTHROPIC_API_KEY")
-        api_key="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",
+        api_key=os.environ.get("ANTHROPIC_API_KEY")
     )
 
     instruction = '''You are an expert system designed to translate epigraphic and papyrological inscriptions from Leiden Conventions format into XML that conforms to the EpiDoc schema. 
@@ -244,6 +245,7 @@ This detailed breakdown will help ensure a thorough and accurate translation. Af
     return message.content[0].text
 
 if __name__=="__main__":
+    load_dotenv()
 
     path = "01_leiden-translator/"
     leiden_txt_files = [x for x in os.listdir(path + 'leiden') if x[-4:] == '.txt']
