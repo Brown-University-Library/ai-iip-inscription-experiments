@@ -1,0 +1,101 @@
+referent_uuid,name_first,name_last,tribes,sex,age,age_category,origins,occupations,races,enslavement_status,relationships
+00080df07511480799b0a945fec265ab,0,0,0,1,1,1,0,0,1,1,0,
+000a6c4e90c140e0b5c84dcdbd47e8f7,0,0,0,1,1,1,0,1,1,1,1,
+001beb8c72174bcea9c5e8bcd57e3b9a,1,1,0,1,0,0,0,0,0,1,0,
+002187d8abf74805973edbf1f56b09d1,1,1,0,1,0,0,0,0,0,1,1,
+002b55a73ae84e7db48ca67fb1faee7b,1,0,0,1,-1,1,0,0,1,1,1,"age: Incorrect, 'men' is not an age"
+00308f725bff40bc86ba8f8f067bb4d1,1,0,0,1,1,1,0,0,1,1,-1,"relationships: Incorrect, there is no evidence in the text that Juba was enslaved by Daniel Hewless."
+0032dc95f2e94ec787f795b6d422a057,0,0,0,1,0,0,0,0,1,1,1,
+003acf11b1fb4130bb432b16e39c63b7,1,1,0,1,0,0,0,1,1,1,1,
+003ba3fd7f604ba08b6e9a8f95e51ee9,1,0,1,1,0,0,0,0,1,1,-1,"relationships: Incorrect, the text does not specify who enslaved 'Nan'."
+003bb009a6ae4549aaf5f58be87072a1,1,0,1,1,1,1,0,0,1,1,1,
+003de87a4692473ab929908f2cee658e,1,0,0,1,0,0,1,0,1,1,1,
+0043be8e187149fe9bad2324351aa6eb,1,1,0,1,0,0,0,0,1,1,1,"races: Correct, although there is no explicit evidence that the person is white, we can infer from the historical context"
+0047d59ea710407fa9625b5b87b68ac9,-1,1,0,1,0,0,0,1,1,1,1,name_first: 'Dr.' is not a first name
+005e8573bea94a6fa22b88b073526c5b,1,1,0,1,0,0,0,0,1,1,1,
+006e3d73b2744d3b82e07d26ac677f5c,1,1,0,1,0,0,1,0,1,1,1,"races: Correct, although there is no explicit evidence that the person is white, we can infer from the historical context"
+0077a14a1c5e431ebbebb34c9522bdc1,1,1,0,1,0,0,0,-1,-1,-1,-1,"occupations: Incorrect, there is no mention of 'Military and Militia' in the text. races: Incorrect, there is no mention or inference of race in the text. enslavement_status: Incorrect, the text does not mention Thomas Prentiss as the enslaver or owner of Edward Joseph. relationships: Incorrect, the text does not mention Thomas Prentiss as the master of Edward Joseph."
+0080f4ab5252416187f34f25e06f6bb8,1,1,0,1,1,1,0,0,1,1,1,
+008f56b7a6a640d4bbbe972c93d75ba8,1,0,0,-1,0,0,0,0,-1,1,1,"sex: Cannot be determined from the text, races: Incorrect, the text mentions 'Mulatto', not 'Indigenous'"
+009891554d0a4d8c9eb52f8d70347854,1,1,0,1,0,0,0,1,1,0,0,"tribes: NULL, age: , age_category: NULL, origins: NULL, enslavement_status: NULL, relationships: NULL"
+0099ba63382f408c91342cbf73a29f2e,0,0,0,0,0,0,0,0,1,-1,-1,"{'enslavement_status': 'Cannot be confirmed from the text', 'relationships': 'Cannot be confirmed from the text'}"
+0099dd37e7fd40918c1e585c910d5b24,1,1,0,1,0,0,0,1,1,1,0,
+00a389799ec84aba8c2e9dd9a72ead27,1,1,1,1,0,0,0,0,1,1,1,
+00a46b4e174a41cdafae7c31da5f330b,0,0,1,1,0,0,0,-1,1,1,1,"occupations: Incorrect, there is no mention of 'Marketing, Retail, and Trading'"
+00a5919666fd4b3c97e949ad9185c0af,1,0,0,1,1,1,0,0,1,1,1,"name_last: , tribes: NULL, origins: NULL, occupations: NULL"
+00b78aafd0264986b2f83a9b79af5f85,1,1,0,1,0,0,1,0,1,1,1,
+00ca74ecf25f47ed97561ff5cd772bb8,0,0,-1,-1,0,0,0,-1,-1,-1,-1,"tribes: Incorrect, there is no mention of 'Mohawk' in the text. sex: Incorrect, there is no mention of the individual's sex in the text. occupations: Incorrect, 'Husbandry' is mentioned as a business the individual is put to. races: Incorrect, there is no mention of 'Indigenous' in the text. enslavement_status: Incorrect, there is no mention of indenture in the text. relationships: Incorrect, there is no mention of 'Eli Forbes' in the text."
+00d441650aa84e83bc59394e4e1aa352,1,1,0,1,-1,-1,0,0,-1,1,1,"{'age': ""Incorrect, the text mentions an age of 'about 20 Years'"", 'age_category': ""Incorrect, 'about 20 Years' implies 'Young adult'"", 'races': ""Incorrect, the text mentions 'Indian Molatto Man'""}"
+00d5a4d892674dda89aeafedae3b23c5,1,0,0,1,1,1,0,0,1,1,1,
+00ebc4375b4f4dcd8eefaa3ebabb9fda,1,0,0,1,1,1,0,0,1,1,1,
+00f7270641704a4aa86ca29a71e4c110,1,0,0,1,0,0,0,0,1,1,1,
+0105f0f20d89467d93661955ffce32bc,1,1,0,1,0,0,0,1,1,1,1,
+010e72da11e94b21a0eb30babe83ed20,1,0,0,1,0,0,0,0,1,1,-1,"relationships: Incorrect, there is no direct link between 'Pickle' and 'Bryan McDonnell' in the text."
+011d8f6f9b634b26b954a73bfa6df5ca,1,1,0,1,0,0,1,1,1,1,1,
+0134c65daefa4298a0e6dc6ee314eedc,1,1,1,1,1,1,0,1,1,1,1,
+0136331217a54adba42859c5137d6d77,1,1,0,1,0,0,1,0,-1,1,1,races: Cannot be inferred from the text
+013bd54be4034679adf7dec612e36ea3,-1,-1,0,1,0,0,0,0,1,1,1,"name_first: Incorrect, the name in the text is 'Akamo', not 'Ahomo'. name_last: Incorrect, there is no last name mentioned in the text"
+013c356e87ab4d38a80dbd151a543f2c,0,0,0,0,0,0,1,-1,0,0,1,"occupations: Incorrect, there is no mention of 'Marketing, Retail, and Trading' in the text"
+014bbe5736544442baf42756b9185cc8,1,1,0,1,0,0,0,0,1,1,-1,"relationships: Incorrect, there is no mention of Roger Williams capturing anyone."
+0152880add674ac184905654e64c57b1,0,0,0,0,0,0,0,0,0,0,0,
+01562282bb7d4e088769b33bf3f3c796,-1,-1,0,1,0,0,-1,1,-1,-1,-1,"name_first: Incorrect, 'Godfrey' is not the first name of the individual, it's the person the Indian fellow was not willing to go with. name_last: Incorrect, 'Malbone' is not the last name of the individual, it's the name of the person the letter is addressed to. origins: Incorrect, 'Newport' is not mentioned in the text. races: Incorrect, the race of the individual is not mentioned in the text. enslavement_status: Incorrect, the individual is not a free person, he is an enslaved person who ran away. relationships: Incorrect, the relationships mentioned in the data cannot be inferred from the text."
+016701d8f3c745fbb0a87d7b898b00a3,1,1,0,1,0,0,0,0,1,1,1,
+016e5b5a79a348a3acb4c0a5cdbef2e1,1,0,0,1,1,1,0,0,1,1,1,"name_last: , tribes: NULL, origins: NULL, occupations: NULL"
+0171dcfb198f4bb79f185f2a97eabfb1,-1,0,0,-1,0,0,0,0,1,-1,0,"name_first: Incorrect, there is no mention of the name 'Esther'. sex: Incorrect, there is no mention of the sex of the individual. enslavement_status: Incorrect, there is no mention of the individual's enslavement status."
+017948e42ca44b07bdfad03cba58d177,1,-1,0,1,0,0,1,0,1,-1,1,"{'name_last': ""Incorrect, 'Perry' is not mentioned in the text"", 'enslavement_status': ""Incorrect, the text does not mention 'term-limited' enslavement""}"
+0180ae0b40aa4567bd9986e9d69f93c2,1,0,0,1,0,0,0,0,1,1,1,
+018a33be8b4d483d99d14b3ab6be16d7,1,1,0,1,1,1,0,1,1,1,1,
+0190b055598c445a9205bc3d3f8b64ea,-1,-1,0,0,0,0,0,0,-1,-1,-1,"name_first: Incorrect, 'Davis' is a last name, not a first name; name_last: Incorrect, there is no mention of a last name 'Davis' in the text; races: Incorrect, there is no mention of race in the text; enslavement_status: Incorrect, there is no mention of enslavement status in the text; relationships: Incorrect, there is no mention of a relationship between 'Davis' and 'Hannah' in the text"
+01948a63acb4410881ba4459591885a6,0,0,0,1,0,0,1,0,1,1,1,
+01bedf914a6a41d5baa2e80b38304607,1,0,1,-1,1,1,0,1,1,1,1,"sex: Incorrect, the sex of 'Number Two' is not mentioned in the text"
+01c80caab36d40b29324455ae86a279c,1,0,0,1,1,1,1,1,1,1,1,
+01d132a7667548a4849c829754697f32,1,1,0,1,0,0,0,0,1,1,1,
+01f4610092e74a598d2bf85167b49611,0,0,0,1,0,0,0,0,1,1,1,
+01f4ade38d8444719c29ae3c9925d8d6,1,0,-1,1,0,0,0,1,1,1,1,"tribes: Incorrect, 'Arawak' is not mentioned in the text"
+020222ed186c4f428bd055a11be23515,0,0,0,1,1,1,0,0,1,1,0,
+0207b85b88e24aa99cd158c01cf269c5,1,1,0,1,0,0,0,0,0,1,1,"tribes: NULL, age: , age_category: NULL, origins: NULL, occupations: NULL, races: NULL"
+0212c1674f054f789e4308fe20b70252,1,1,0,1,0,0,0,1,1,1,1,
+021c8b64d25d4fbaa5c60cbafd3cf134,0,0,0,1,-1,-1,1,0,-1,-1,-1,"{'age': ""Incorrect, the text mentions 'Aet. 21' which could be the age of the individual"", 'age_category': ""Incorrect, 'Adult' can be inferred from 'Aet. 21'"", 'races': ""Incorrect, the text mentions 'Negro-Indian' and 'Mulatto', not 'White'"", 'enslavement_status': ""Incorrect, the text suggests the individual was 'born free' but was 'put out' to a man, suggesting a status of unfree or enslaved"", 'relationships': 'Incorrect, there is no mention of the individual being an owner of someone else.'}"
+022df2a9fc1a4a8f90ccbee268450961,1,0,0,1,1,1,0,0,1,1,1,
+024094dd168b43e2b52596f6904519e9,1,0,0,1,0,0,1,0,1,1,1,
+0246b5f0a84f469da4eebf1a6f151f42,1,0,1,1,0,0,0,0,1,1,1,
+0254fb0ef8d1415ab7c0e6af18377c85,-1,-1,0,-1,0,0,-1,0,-1,-1,1,"name_first: Incorrect, the name 'Samuel' is not referring to the enslaved individual but to the deceased Mr. Greenwood. name_last: Incorrect, the last name 'Greenwood' is not referring to the enslaved individual but to the deceased Mr. Greenwood. sex: Incorrect, the sex of the enslaved individual is not mentioned. origins: Incorrect, 'Boston' is the place of the estate, not the origin of the enslaved individual. races: Incorrect, the race of the enslaved individual is not mentioned. enslavement_status: Incorrect, the status of the enslaved individual is not mentioned."
+0256e73c4aa84fc1874b75c0a9e23bcd,1,1,0,1,0,0,0,1,1,1,1,
+025b46ef202745c9a4e2429c6315d734,0,0,0,-1,-1,0,0,0,1,1,1,"sex: Not mentioned in the text, age: Not mentioned in the text"
+02684c9ab6a54d9c89eb79ee7e4673fb,1,1,0,1,1,-1,0,0,1,1,1,"age_category: Incorrect, should be 'Adult' as 'above 16' is generally considered adult"
+026cf2680eaa4b75b351e681a2215f9c,1,1,0,1,0,0,-1,0,-1,-1,-1,"{'origins': ""Incorrect, there is no mention of 'Maryland' or 'Baltimore County' in the text"", 'races': 'Incorrect, there is no mention of race in the text', 'enslavement_status': 'Incorrect, there is no mention of enslavement status in the text', 'relationships': ""Incorrect, 'Matt' is mentioned as an object (Indian Matt), not a person.""}"
+027374df0c824ba787db063285a350eb,1,1,0,1,0,0,0,0,0,1,1,
+027599ccd4764698afe4def37c15d06e,1,1,0,1,0,0,0,0,-1,1,1,"races: Incorrect, there is no mention of John Brumfield's race"
+027928ffa340406d8a50be3919d0b31a,1,1,0,1,0,0,0,0,1,1,1,"races: Correct, although there is no explicit evidence that the person is white, whiteness is presumed from the historical context"
+0283ade14a894a3fbae90bb966db1da4,1,1,0,1,0,0,0,0,1,1,1,"races: Correct, although there is no explicit evidence that the person is white, whiteness is presumed from the historical context"
+0284cff71290406099b6d6c0b5e8df2f,1,1,0,1,1,1,0,0,1,1,1,
+028dc5b7e48048eda40767b47a8c4b68,1,1,0,1,0,0,1,1,1,1,1,
+029214c0b9504df6b5c7543094784f64,1,1,0,1,0,0,0,0,1,1,0,"races: Correct, although there is no explicit evidence that the person is white, whiteness is presumed from the historical context; enslavement_status: Correct, inferred from 'my Indians there'"
+02aec69bde9e4bc883fd0657b6b742c5,1,0,0,-1,0,0,0,0,1,-1,1,"{'sex': 'Cannot be determined from the text', 'enslavement_status': ""Incorrect, the text mentions 'illegally detained as slaves', not 'manumitted'""}"
+02b61157d6844f70b11046ad584afe86,0,0,0,0,0,0,0,0,0,0,0,
+02bb74f2c1b74b729b88216f137b3fe9,0,0,0,1,0,0,0,0,1,1,1,"sex: Correct, inferred from 'his 2 sons', races: Correct, inferred from 'Indians', enslavement_status: Correct, inferred from 'keeping of Indians', relationships: Correct, inferred from 'Shepcott John his 2 sons' and 'Caleb Ray Keaper of his Majties Goal'"
+02c54b8f4dea4a1db2bbe7b8d01435ee,1,0,1,1,0,0,0,0,1,1,0,
+02c74ffffeba4b0392e02b1c2603bc33,1,1,0,1,0,0,1,0,-1,1,1,"races: Incorrect, there is no explicit mention of 'Jaques Denise' being white"
+02d30922dfd543dba1629d031114f969,1,0,0,1,0,0,1,0,1,1,1,
+02d4b131d4b94a05b10da7a95be4649c,1,-1,0,-1,1,0,0,0,-1,-1,0,"{'name_last': ""Incorrect, 'Warrens' is not a last name in the text, it's part of 'Sir Peter Warrens Donation'"", 'sex': 'Cannot be determined from the text', 'races': 'Incorrect, there is no mention or inference of race in the text', 'enslavement_status': 'Incorrect, there is no mention or inference of enslavement status in the text'}"
+02d87d97ba2e4a9d9f6e6bfe89ec89b0,0,0,0,1,0,0,0,0,1,1,1,
+02e9a84cd5b24bb19127eaadebbdd2c0,1,1,0,1,0,0,1,1,1,1,1,
+02ece4b3032e4fd9b7978c242920ab3a,1,1,0,1,0,0,0,1,1,1,0,"age: NULL, tribes: NULL, age_category: NULL, origins: NULL, relationships: NULL"
+02f967c94fde46f0ad56b8e59d7d4212,0,0,0,0,0,0,0,0,1,-1,1,enslavement_status: Cannot be inferred from the text
+02feb34e922147188e525074cc3df275,1,1,0,1,1,1,1,0,1,1,1,
+031835ad95a7455db58a2f957b5480fa,-1,1,0,1,-1,-1,1,-1,-1,-1,1,"name_first: Incorrect, the first name is not mentioned in the text. age: Incorrect, the age 'about 27 Years of Age' is mentioned in the text. age_category: Incorrect, 'Adult' can be inferred from 'about 27 Years of Age'. occupations: Incorrect, there is no mention of 'Military and Militia' in the text. races: Incorrect, the text mentions 'Spanish Indian' and 'more than common white', not 'white'. enslavement_status: Incorrect, the text mentions 'Servant', not 'free person ▸ enslaver or owner'"
+0334cd62b6e24e12af6f0be4c5f821e5,1,1,0,1,0,0,0,1,1,1,1,
+03352c9e15cb4385acf8317c73ba19c6,1,0,0,-1,0,0,0,1,-1,1,1,"sex: Cannot be determined from the text, races: Cannot be determined from the text"
+033616c3f6de4af0bc80a12002dc5ece,1,0,1,1,0,0,0,0,1,1,-1,"relationships: Incorrect, there is no mention of 'John Wicks' in the text."
+03417c39cbd044bcaa6f126d0f057915,1,1,0,1,0,0,0,0,0,1,1,
+035124efa4414c90a5b4973b192cc3e7,0,0,0,1,1,1,0,0,-1,1,1,"races: Cannot be confirmed, the text does not specify the race of the girls"
+03634367a65740d3a7284fe16ea68445,1,1,0,1,0,0,0,0,0,1,1,
+036ed330bf904387b3e3b77fe6881a74,1,0,0,1,0,0,0,0,1,1,-1,"relationships: Incorrect, there is no mention of 'Caleb Ray' capturing 'Sheepcott John' in the text."
+0370c301e3254e3295828f08265b29e8,1,1,0,1,0,0,0,0,1,1,1,"races: Correct, although there is no explicit evidence that the person is white, whiteness is presumed from the historical context"
+037617ddff024a398f5e66bbcff7a1cc,1,0,-1,1,0,0,0,-1,1,1,1,"{'tribes': ""Incorrect, the text mentions 'Warao tribe'"", 'occupations': ""Incorrect, the text mentions 'head driver on Plantation Laurencia'""}"
+037a55e05e6e4ba38f9fa20ccc771305,1,1,0,1,1,0,0,1,1,1,1,"age: Correct, no age is mentioned for Nathaniel Carpenter. age_category: NULL, no age is mentioned for Nathaniel Carpenter."
+037a56a5468245f99fdeffe3c1bb30d6,1,1,1,1,0,1,0,-1,1,1,-1,"{'occupations': ""Incorrect, the occupation should be 'shoemaker'"", 'relationships': ""Incorrect, the relationship should be 'owner of Charlton'""}"
+039007d760d040919d097cb9c4c1a2f7,1,1,0,1,0,0,0,0,1,1,1,
+0394566ebbe14fd887bbe986a51ceab3,0,0,0,1,0,0,0,0,1,1,1,
+03963150a9464860b995942defdb4254,1,0,0,1,0,0,-1,0,1,1,1,"origins: Incorrect, 'Medfield' is mentioned as a location but not as an origin"
+039ab950c0f842b9a54974981869f164,1,1,1,1,1,0,1,0,1,1,1,
