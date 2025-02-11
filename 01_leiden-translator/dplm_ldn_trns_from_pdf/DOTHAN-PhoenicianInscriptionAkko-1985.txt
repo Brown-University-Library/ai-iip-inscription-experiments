@@ -1,0 +1,25 @@
+Based on the PDF, here is the Phoenician inscription from 'Akko with its diplomatic and Leiden transcriptions, along with translation:
+
+<diplomatic>
+בדת לבני חרש אש יתנו אנג כ
+בד לשלת אש על אשרת גלנם
+י ומלאם ז ///י וכפש
+אדרת זזזז ולפם
+זזזז ולגמם זזזז
+מיפחת זז /// ///
+דקרת צעירת זל
+</diplomatic>
+
+<leiden>
+בדת לבני חרש אש יתנו אנג כ[בד]
+בד לשלת אש על אשרת גלנם
+י ומלאם ז[כ]ה ומכפש
+אדרת ז[ע]זז ולפם
+ז[ס]זז ולגמם ז[ס]זז
+מיפחת זז[נ] /// ///
+דקרת צעירת ז[ל]
+</leiden>
+
+<translation>
+By order: to the guild of (metal?) artisans; they shall give a valuable basin to שלת, the overseer of the shrine(s); (likewise they shall give) metal cups (golden?) 10, and vessels with inlay (round ringstands?) 25, and large pyxides 70, and pots (on stands) 60, and decanters 60, and smiths' blown vessels 57 and small deep bowls 30.
+</translation>

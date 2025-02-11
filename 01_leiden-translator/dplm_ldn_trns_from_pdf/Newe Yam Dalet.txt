@@ -1,0 +1,27 @@
+Based on the PDF, here are the inscriptions found in the Byzantine-Period funerary chapel in Ashqelon:
+
+<diplomatic>ΕΤΟΥΣΣΜ
+Η
+ΧΜΔΕΣΙΟ
+ΥΑΚ</diplomatic>
+<leiden>Ἔτους ςμχ΄ μη(νὶ) Δεσίου ακ΄</leiden>
+<translation>In the year 646 on the 21st of the month of Daisios</translation>
+
+<diplomatic>ΦΟΣΚΥ</diplomatic>
+<leiden>Φος κ(υρίο)υ</leiden>
+<translation>Light of the Lord</translation>
+
+<diplomatic>ΑΥΤΗΗΠΥΛ
+ΗΤΟΥΚΥΔΙ
+ΚΑΙΟ...
+ΕΛΕ...ΝΤ
+ΑΙΕ...ΥΤΗ</diplomatic>
+<leiden>Αὕτη ἡ πύλη τοῦ κ(υρίο)υ, δίκαιο[ι εἰσ]ελε[ύσο]νται ἐ[ν α]ὐτῇ</leiden>
+<translation>This is the gate of the Lord, the righteous shall enter by it.</translation>
+
+<diplomatic>ΕΥΤΥ
+ΧΩΣ
+ΤΗΠΟ
+ΛΕΙ</diplomatic>
+<leiden>Εὐτυχῶς τῇ πόλει</leiden>
+<translation>Good fortune to the city</translation>

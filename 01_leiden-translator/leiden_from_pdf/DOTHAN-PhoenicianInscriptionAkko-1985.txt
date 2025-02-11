@@ -1,0 +1,13 @@
+Based on the PDF content, I can extract the following Phoenician inscription transcribed according to the Leiden Convention:
+
+<inscription>
+בדת לבני חרש אש יתנו אגן כ
+בד לשלת אש על אשרת גלגנ
+י ומלאכם ז ///י וכפס
+אדרת zzzz ולפמ
+zzz ולגממ zzz
+מלפחת zzz /// ///
+דקרת צעירת zל
+</inscription>
+
+This inscription appears on both sides of a pottery sherd found at Tel 'Akko, with the first four lines on the outside and the last three lines on the inside. The inscription is written in Phoenician script and dates to the Persian period (early 5th century BCE). The transcription includes Leiden symbols like [, (, and - to indicate damaged or reconstructed text.

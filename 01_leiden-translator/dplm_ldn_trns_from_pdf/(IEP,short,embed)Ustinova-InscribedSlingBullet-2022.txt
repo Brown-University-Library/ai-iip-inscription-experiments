@@ -1,0 +1,23 @@
+Based on the article, here are the inscriptions found on the sling bullet from Iamnia (Yavneh):
+
+<diplomatic>
+Side A:
+NIKΗ
+
+Side B:
+ΗΡΑΚΛΕΟΥΣ
+ΚΑΙΑΥΡΩΝΑ
+</diplomatic>
+
+<leiden>
+Side A:
+νίκη
+
+Side B:
+Ἡρακλέoυϛ
+καὶ Αὑρώνα
+</leiden>
+
+<translation>Victory of Heracles and Hauronas</translation>
+
+The inscriptions appear in relief on a lead sling bullet dated to the second century BCE. Side A contains the word for "victory" while Side B contains the names of two deities - Heracles and Hauronas - in the genitive case, indicating that the victory belongs to or is granted by these gods who were the patron deities of ancient Iamnia.

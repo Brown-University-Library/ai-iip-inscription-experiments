@@ -1,0 +1,12 @@
+Based on the PDF content, I can extract the following Leiden transcription from the Greek ostracon discussed in the article:
+
+<inscription>
+ἐ̣π' ἀλλαγ̣( )
+κτήνη 
+τ̣έσσε̣ρα [ . ] . .
+κουστε .
+αν . . //
+σ̣ε̣σ̣(ημείωμαι)
+</inscription>
+
+This transcription represents the complete text of the ostracon as re-edited by the author, including uncertain letters (marked with underdots), abbreviations (marked with parentheses), and damaged/illegible portions (marked with brackets and dots). The diagonal strokes (//) at the end of line 5 are also included as they appear to be part of the original text.

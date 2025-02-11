@@ -1,0 +1,23 @@
+Based on the article, I can extract the following Greek inscription from the ostracon found at Tel Arad:
+
+<diplomatic>
+ἐ̣π' ἀλλαγ̣( )
+κτήνη
+τ̣έσσε̣ρα [ . ] . .
+κουστε .
+αν . . //
+σ̣ε̣σ̣(ημείωμαι)
+</diplomatic>
+
+<leiden>
+ἐ̣π' ἀλλαγ̣(ῇ) or ἐ̣π' ἀλλαγ̣(ῆς)
+κτήνη
+τ̣έσσε̣ρα [ . ] . .
+κουστε .
+αν . . //
+σ̣ε̣σ̣(ημείωμαι)
+</leiden>
+
+<translation>For exchange: four mounts (?). I [N or NN] have signed.</translation>
+
+The inscription appears to be a document related to exchanging or requisitioning four animals (likely horses) at the Roman fort of Arad, with an official signature at the end. The text dates to the first century CE.

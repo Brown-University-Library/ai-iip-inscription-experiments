@@ -1,0 +1,13 @@
+Based on the PDF content, I will extract the Leiden transcriptions. The key inscription appears on page 191 of the article and contains Greek text on both sides of a sling bullet:
+
+Side A:
+ΝΙΚΗ
+νίκη
+
+Side B:
+ΗΡΑΚΛΕΟΥΣ
+ΚΑΙΑΥΡΩΝΑ
+Ἡρακλέoυϛ
+καὶ Αὑρώνα
+
+This inscription translates to "Victory of Heracles and Hauronas". The text appears to be accurately transcribed following Leiden conventions, including the use of Greek characters and proper case.
